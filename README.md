@@ -30,9 +30,9 @@ This project is a two-wheel-drive RC car controlled wirelessly via Bluetooth fro
 
 ## Hardware
 > Fill in the exact part names/models you used — these are placeholders based on what's visible in the build.
-- Arduino (model: ___)
-- Motor driver board (dual H-bridge, model: ___)
-- Bluetooth module (model: ___, e.g. HC-05/HC-06)
+- Arduino
+- Motor driver board
+- Bluetooth module
 - 2× DC gear motors + wheels
 - 1× caster wheel (rear support)
 - Battery pack
