@@ -2,9 +2,8 @@
 
 A 3D-printed, Arduino-based RC car controlled wirelessly over Bluetooth from a smartphone. Built from scratch in about six weeks — circuit prototyping, a custom double-layer chassis designed in Fusion 360, and motor control code tuned to fix real-world quirks like drift.
 
-<img width="756" height="1008" alt="Car_Image" src="https://github.com/user-attachments/assets/c71ce618-76a2-42cc-bd2f-7bbd0dd501a6" />
+<img width="756" height="1008" alt="Car_Image" src="https://github.com/user-attachments/assets/90ed159e-57b4-4039-985c-31160bf063e9" />
 
-<!-- Add a photo or short clip/GIF of the car driving here, e.g.: -->
 <!-- ![RC Car](media/car-photo.jpg) -->
 
 ## Table of Contents
